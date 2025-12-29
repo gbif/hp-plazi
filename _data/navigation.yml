@@ -1,26 +1,28 @@
-# Links listed below will be included in your site's navbar (navigation at the top)
-
 - text: About
   href: /about
+
 - text: Dashboard
   href: /dashboard
+
 - text: Data
-  menu: 
-  - text: Occurrences
-    href: /occurrence/search
-  - text: Datasets
-    href: /dataset/search
-  - text: Citations
-    href: literature/search
+  menu:
+    - text: Occurrences
+      href: /occurrence/search
+    - text: Datasets
+      href: /dataset/search
+    - text: Citations
+      href: /literature/search
+
 - text: Tools
   menu:
-  - text: TreatmentBank
-    href: https://plazi.org/treatmentbank/
-  - text: Biodiversity Literature Repository
-    href: https://www.biolitrepo.org/
-  - text: Synospecies
-    href: https://synospecies.plazi.org/
-  - text: Ocellus
-    href: https://ocellus.info/
+    - text: TreatmentBank
+      href: https://plazi.org/treatmentbank/
+    - text: Biodiversity Literature Repository
+      href: https://www.biolitrepo.org/
+    - text: Synospecies
+      href: https://synospecies.plazi.org/
+    - text: Ocellus
+      href: https://ocellus.info/
+
 - text: News
   href: /news/
