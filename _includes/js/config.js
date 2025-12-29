@@ -4,6 +4,14 @@ var siteTheme = gbifReactComponents.themeBuilder.extend({baseTheme: 'light', ext
 }});
 const publisherKeys = [
   '7ce8aef0-9e92-11dc-8738-b8a03c50a862',
+  'b32d3b6f-0ae7-4305-a20c-acfa59f66996',
+  '091ce7dd-c13c-4aa0-946e-df8ad22b627a',
+  '382dc140-b75c-4b3e-989e-8bbd2e4f5cc0',
+  '9ec4b1f3-da61-423a-9162-ccce2eabdb03',
+  '3ef8f405-8adc-457c-95d2-2a4610e6ba47',
+  'a064f300-1bc8-41ea-9364-b864ef4e8938',
+  '75690ef9-a4be-483d-b2df-f5a19bdd1f9e',
+  'e034534f-2cc7-4026-957a-dd034629514f',
 ];
 
 var siteConfig = {
