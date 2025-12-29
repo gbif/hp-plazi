@@ -40,7 +40,6 @@ plugins:
 remote_theme: gbif/jekyll-hp-base-theme
 
 algae:
-  hideHelper: true
   rootLang: en
   latestPostLimit: 3
   logo: /assets/images/images/plazi.png  # Logo in navbar, will be displayed with 28px height
@@ -50,7 +49,7 @@ algae:
     # square: false               # Should corners be square or rounded
     colors:
         primary: "#f7bba58"          # Primary color of your brand. Use HEX code. Used for buttons and links
-      # links: "#f7bba58"          # What color should links have. Use a HEX code. DEfault is primary color. 
+        links: "#f7bba58"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
     brandBackground: "#ffffff"     # Define a custom background for the logo/title in the top navigation bar
