@@ -1,9 +1,7 @@
 - text: About
   href: /about
-
 - text: Dashboard
   href: /dashboard
-
 - text: Data
   menu:
     - text: Occurrences
@@ -12,7 +10,6 @@
       href: /dataset/search
     - text: Citations
       href: /literature/search
-
 - text: Tools
   menu:
     - text: TreatmentBank
@@ -23,6 +20,5 @@
       href: https://synospecies.plazi.org/
     - text: Ocellus
       href: https://ocellus.info/
-
 - text: News
   href: /news/
