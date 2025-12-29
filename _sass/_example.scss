@@ -77,3 +77,13 @@
     }
   }
 }
+.navbar-start {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.navbar-item {
+  flex: 1;            // chaque item prend la même largeur
+  text-align: center;  // centrer le texte
+}
