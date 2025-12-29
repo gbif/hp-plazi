@@ -5,8 +5,8 @@ $footer-background: #f8f8f8 !default;
 $text: #363636 !default;
 $text-strong: #000000 !default;
 $text-light: #7a7a7a !default;
-$link: #3273dc !default;
-$link-hover: darken($link, 10%) !default;
+$link: #3273dc !default;  
+$link-hover: if(type-of($link) == "color", darken($link, 10%), #2759a0) !default;
 
 $primary: #3273dc !default;
 $info: #209cee !default;
