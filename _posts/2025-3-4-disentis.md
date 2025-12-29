@@ -5,7 +5,7 @@ preTitle: March 4, 2025
 date: 2025-3-3 13:00 +0100
 categories: announcement
 lang-ref:
-background: assets/images/placeholders/disentis.jpg
+background: assets/images/images/disentis.jpg
 ---
 Some of the world’s leading institutions, experts and scientific infrastructures relating to biodiversity information are uniting around a new 10-year roadmap to ‘liberate’ data presently trapped in research publications.
 
