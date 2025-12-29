@@ -1,5 +1,4 @@
-@import "theme/variables";
+@import "theme/_main";
 
-@import "bulma/bulma";
-
-@import "theme/example";
+// You can add additional styling here
+@import "_example";
