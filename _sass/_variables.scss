@@ -2,17 +2,13 @@ $background: #ffffff !default;
 $body-background: #f5f5f5 !default;
 $footer-background: #f8f8f8 !default;
 
-$text: #363636 !default;
+$text: #000000 !default;
 $text-strong: #000000 !default;
-$text-light: #7a7a7a !default;
-$link: #3273dc !default;  
-$link-hover: if(type-of($link) == "color", darken($link, 10%), #2759a0) !default;
+$text-light: #000000 !default;
+$link: #000000 !default;
+$link-hover: #f7bba58 !default;
 
-$primary: #3273dc !default;
-$info: #209cee !default;
-$success: #23d160 !default;
-$warning: #ffdd57 !default;
-$danger: #ff3860 !default;
+$primary: #f7bba58 !default;
 
 $family-sans-serif: "Helvetica", "Arial", sans-serif !default;
 $family-monospace: "Courier New", monospace !default;
