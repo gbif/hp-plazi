@@ -19,26 +19,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: plazi # the title of your site should go here
-email: your-email@example.com
-description: >- # this means to ignore newlines (until baseurl:)
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Plazi # the title of your site should go here
+email: info@plazi.org
+description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://plazi.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SOCIAL PROFILES that will show in the footer
-email: info@gbif.org                                      # Social icon in footer
-twitter_username: yourname # if you have an account you want to link to. Else comment this line out
-github_username:  yourname # if you have an account you want to link to. Else comment this line out
-bluesky_username: yourname.org                            # Social icon in footer
-youtube_username: yourname                              # Social icon in footer
-facebook_username: yourname                             # Social icon in footer
-flickr_username: yourname                               # Social icon in footer
-instagram_username: yourname                              # Social icon in footer
-mastodon_url: https://something.goes/@here                # Social icon in footer
-linkedin_url: https://www.linkedin.com/company/yourname # Social icon in footer
+email: info@plazi.org
+github_username: plazi
+bluesky_username: plazi-species.bsky.social
+linkedin_url: https://www.linkedin.com/company/plazi
 
 # Build settings
 theme: minima
@@ -57,7 +48,7 @@ algae:
   style:
     # square: false               # Should corners be square or rounded
     colors:
-      primary: "#fa5e97"          # Primary color of your brand. Use HEX code. Used for buttons and links
+      primary: "#f7bba58"          # Primary color of your brand. Use HEX code. Used for buttons and links
       # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color. 
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true. 
   navbar:                         # RELATED TO NAVIGATION BAR
