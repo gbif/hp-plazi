@@ -1,21 +1,2 @@
-// =====================================
-// 1. Variables Bulma OBLIGATOIRES
-// =====================================
-$background: #ffffff;
-$scheme-main: $background;
-
-// =====================================
-// 2. Initialisation Bulma (CRUCIAL)
-// =====================================
-@import "bulma/sass/utilities/initial-variables";
-@import "bulma/sass/utilities/functions";
-
-// =====================================
-// 3. Thème (importe bulma ensuite)
-// =====================================
 @import "theme/_main";
-
-// =====================================
-// 4. Styles personnalisés
-// =====================================
 @import "_example";
