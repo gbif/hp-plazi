@@ -16,11 +16,11 @@
     menu:
     - text: TreatmentBank
       href: https://plazi.org/treatmentbank/
-      - text: Biodiversity Literature Repository
+    - text: Biodiversity Literature Repository
       href: https://www.biolitrepo.org/
-      - text: Synospecies
+    - text: Synospecies
       href: https://synospecies.plazi.org/
-      - text: Ocellus
+    - text: Ocellus
       href: https://ocellus.info/
 - text: News
   href: /news/
