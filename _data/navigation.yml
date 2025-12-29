@@ -12,5 +12,15 @@
     href: /dataset/search
   - text: Citations
     href: literature/search
+  - text: Tools
+    menu:
+    - text: TreatmentBank
+      href: https://plazi.org/treatmentbank/
+      - text: Biodiversity Literature Repository
+      href: https://www.biolitrepo.org/
+      - text: Synospecies
+      href: https://synospecies.plazi.org/
+      - text: Ocellus
+      href: https://ocellus.info/
 - text: News
   href: /news/
