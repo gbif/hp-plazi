@@ -1,15 +1,15 @@
 ---
 lang-ref: home
 layout: home
-title: European Journal of Taxonomy
-description: Browse data extracted from our publications
-background: /assets/images/placeholders/templates/banner.png
-imageLicense: Some license or image description
+title: Plazi
+description: Browse data extracted from taxonomic literature
+background: /assets/images/placeholders/templates/
+imageLicense:
 height: 90vh
 cta:
   - text: Material citations
     href: /occurrence/search
-  - text: Publications
+  - text: Datasets
     href: /dataset/search
     isPrimary: true
 composition:
