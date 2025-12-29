@@ -82,7 +82,6 @@ exclude:
   - .LICENSE
   - .netlify.toml
   - serve.json
-  - en/data/disabled/
   - README.md
   - /**/README.md  # exclude all README.md files in any folder
 
