@@ -11,9 +11,9 @@ columns:
 
   - name: Contact
     description: |
-      * 57 rue Cuvier
-      * 75005 Paris
-      * France
+      * Dalmaziquai 45
+      * 3005 Bern
+      * Switzerland
     connectIcons: true
 
   # EXAMPLE - Optionally uncomment this block to add more footer content
