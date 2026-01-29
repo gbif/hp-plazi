@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Plazi
 description: Browse data extracted from taxonomic literature
-background: /assets/images/images/placeholder.jpg
+background: /assets/images/images/grapsus_grapsus.png
 imageLicense:
 height: 90vh
 cta:
