@@ -12,6 +12,7 @@ const publisherKeys = [
   'a064f300-1bc8-41ea-9364-b864ef4e8938',
   '75690ef9-a4be-483d-b2df-f5a19bdd1f9e',
   'e034534f-2cc7-4026-957a-dd034629514f',
+  '750a8724-fa66-4c27-b645-bd58ac5ee010',
 ];
 
 var siteConfig = {
